@@ -57,6 +57,7 @@ footer {
 }
 .contact {
   content: center;
+  font-size: 200%;
 }
 
 .projects {
@@ -160,5 +161,8 @@ h3 {
   }
 }
 p {
+  font-size: 200%;
+}
+#about {
   font-size: 200%;
 }
